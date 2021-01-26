@@ -2,7 +2,7 @@
 
 ## Hi there👋 it's Teddy! 
 
-- :tv: See Sweet Potato Mod on [GitHub](https://github.com/Featurehouse/sweet_potato-release), [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sweet-potato) or [MCBBS](https://www.mcbbs.net/thread-1132119-1-1.html).
+- :tv: See Sweet Potato Mod on [GitHub](https://github.com/Featurehouse/sweet_potato-release), [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sweet-potato) or [MCBBS](https://www.mcbbs.net/thread-1132119-1-1.html).
 
 - 🔭 I’m currently working on Minecraft Fabric Modding.
 - 🌱 I’m currently learning Minecraft Forge.
