@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning Minecraft Forge.
 - 👯 I’m contributing on Sweet Potato Mod. My partner is [@Rayawa](https://github.com/Rayawa) .
 
--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Featurehouse&repo=sweet_potato-release&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Featurehouse&repo=sweet_potato-source&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Featurehouse&repo=sweet_potato-release&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Featurehouse&repo=sweet_potato-source&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 --------------------------------
 
