@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on Minecraft Modding.
 - 🐧 I'm currently using Linux.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Featurehouse&repo=sweet_potato-source&theme=graywhite)](https://github.com/Featurehouse/sweet_potato-source)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teddyxlandlee&repo=resourcedl&theme=graywhite)](https://github.com/teddyxlandlee/resourcedl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teddyxlandlee&repo=enchlevel-langpatch&theme=graywhite)](https://github.com/enchlevel-langpatch)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teddyxlandlee&repo=end-poem-extension&theme=graywhite)](https://github.com/teddyxlandlee/end-poem-extension)
 --------------------------------
 
 - :film_projector: Bilibili [teddyxlandlee](https://space.bilibili.com/578744436).
