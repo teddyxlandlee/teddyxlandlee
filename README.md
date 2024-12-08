@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Minecraft Modding.
 - 🐧 I'm currently using Linux.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teddyxlandlee&repo=enchlevel-langpatch&theme=graywhite)](https://github.com/enchlevel-langpatch)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teddyxlandlee&repo=enchlevel-langpatch&theme=graywhite)](https://github.com/teddyxlandlee/enchlevel-langpatch)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teddyxlandlee&repo=end-poem-extension&theme=graywhite)](https://github.com/teddyxlandlee/end-poem-extension)
 --------------------------------
 
